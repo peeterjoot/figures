@@ -1,0 +1,7 @@
+dd          (diff them all)
+ff.ph       (paths from physicsplay repo)
+ff.submod   (pathss from figures repo)
+jj joined   (from jj.ph, jj.submod)
+jj.ph       ff.ph -> inverted order
+jj.submod   ff.submod -> inverted order
+p           filenames, no path
