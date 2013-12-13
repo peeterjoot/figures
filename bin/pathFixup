@@ -1,0 +1,2 @@
+perl -p -i -e 's,imageFigure{figures/,imageFigure{../../figures/gabook/,;s,pdfTexFigure{figures/,pdfTexFigure{../../figures/gabook/,;' `find -name "*.tex"`
+#perl -p -i -e 's,{figures/,{../../figures/gabook/,' ../../figures/gabook/*.pdf_tex

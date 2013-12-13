@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.45256167)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/gaQuickIntroFig1.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/gabook/gaQuickIntroFig1.pdf}}%
     \put(0.59571326,0.35113179){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\hat{\mathbf{u}}$}}}%
     \put(0.75069559,0.11744754){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\hat{\mathbf{v}}$}}}%
     \put(0.63203723,0.25184626){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\mathbf{a}$}}}%
