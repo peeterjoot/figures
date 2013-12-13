@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.65167464)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/reflectionAtInterfaceLabelledFig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy485/reflectionAtInterfaceLabelledFig2.pdf}}%
     \put(0.10239234,0.28899522){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Interface $(x,y)$}}}%
     \put(0.13014354,0.20478469){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Plane of incidence $(x, z)$}}}%
     \put(0.79425837,0.5138756){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\hat{\mathbf{k}}_r$}}}%

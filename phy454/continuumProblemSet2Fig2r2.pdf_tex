@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.72839506)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/continuumProblemSet2Fig2r2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy454/continuumProblemSet2Fig2r2.pdf}}%
     \put(0.41863076,0.48035915){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y$}}}%
     \put(0.51066215,0.37598205){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$x$}}}%
     \put(0.83950617,0.60269359){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y = h$}}}%

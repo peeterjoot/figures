@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.88646288)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/continuumProblemSet2Fig1r2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy454/continuumProblemSet2Fig1r2.pdf}}%
     \put(1.01735291,1.78182087){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y = h$}}}%
     \put(1.01444614,-0.00872016){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y = -h$}}}%
     \put(1.02897977,0.88655037){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\mathbf{u}(y) = \frac{G }{2 \mu} (h^2-y^2) \hat{\mathbf{x}}$}}}%

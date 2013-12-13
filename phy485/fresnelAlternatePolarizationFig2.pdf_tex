@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.80988593)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/fresnelAlternatePolarizationFig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy485/fresnelAlternatePolarizationFig2.pdf}}%
     \put(0.3821883,0.34336283){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\phi$}}}%
     \put(0.35549579,0.41616063){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\phi$}}}%
     \put(0.39553458,0.74132402){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\hat{\mathbf{m}}_i$}}}%

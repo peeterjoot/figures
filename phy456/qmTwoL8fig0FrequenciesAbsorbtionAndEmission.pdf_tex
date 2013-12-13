@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.4142857)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/qmTwoL8fig0FrequenciesAbsorbtionAndEmission.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/qmTwoL8fig0FrequenciesAbsorbtionAndEmission.pdf}}%
     \put(0.1651096,1.29015874){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Positive frequencies: absorbtion}}}%
     \put(0.1651096,0.16126984){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Negative frequencies: 
    stimulated emission}}}%

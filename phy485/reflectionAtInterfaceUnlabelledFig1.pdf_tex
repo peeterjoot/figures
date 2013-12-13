@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.71375465)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/reflectionAtInterfaceUnlabelledFig1.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy485/reflectionAtInterfaceUnlabelledFig1.pdf}}%
     \put(0.33563361,0.44525126){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\theta_i$}}}%
     \put(0.49949508,0.3604953){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{
 }}}%

@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.4142857)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/qmTwoL9fig3.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/qmTwoL9fig3.pdf}}%
     \put(0.09983371,1.21720333){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$E_{31}(t), E_{32}(t)$}}}%
     \put(0.11519275,0.87162512){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$E_{21}(t)$}}}%
     \put(0.05375661,0.64507937){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$E_{11}(t), E_{12}(t), E_{13}(t)$}}}%

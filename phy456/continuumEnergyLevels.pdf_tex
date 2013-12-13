@@ -49,6 +49,6 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.4142857)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/continuumEnergyLevels.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/continuumEnergyLevels.pdf}}%
   \end{picture}%
 \endgroup%

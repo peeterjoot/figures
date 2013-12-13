@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.74722222)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/inclinedFlowWithoutConstantHeightAssumptionFig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy454/inclinedFlowWithoutConstantHeightAssumptionFig2.pdf}}%
     \put(0.31164383,0.67465754){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$y$}}}%
     \put(0.38013696,0.33732876){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$x$}}}%
     \put(0.40924661,0.5702055){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\hat{\mathbf{n}}$}}}%

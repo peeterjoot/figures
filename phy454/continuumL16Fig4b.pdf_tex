@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.67641997)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/continuumL16Fig4b.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy454/continuumL16Fig4b.pdf}}%
     \put(0.11643836,0.60958904){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\delta$}}}%
     \put(0.74315067,0.15582191){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\sqrt{\nu t}$}}}%
   \end{picture}%

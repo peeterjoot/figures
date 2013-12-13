@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.5031211)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/continuumMidtermReflectionFig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy454/continuumMidtermReflectionFig2.pdf}}%
     \put(0.80993149,0.34589041){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{prop.}}}%
     \put(0.40924659,0.35787671){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\spacegrad \cross \Be$}}}%
   \end{picture}%

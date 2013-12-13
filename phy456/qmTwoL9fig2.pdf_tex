@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.75)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/qmTwoL9fig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/qmTwoL9fig2.pdf}}%
     \put(0.54166667,0.66666667){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$e^{i \gamma_{sm}(t)}$}}}%
   \end{picture}%
 \endgroup%

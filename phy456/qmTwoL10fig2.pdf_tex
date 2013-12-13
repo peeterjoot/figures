@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.4142857)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/qmTwoL10fig2.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/qmTwoL10fig2.pdf}}%
     \put(0.3762963,0.64507937){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$i$}}}%
     \put(0.37245654,0.86394559){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$m$}}}%
   \end{picture}%

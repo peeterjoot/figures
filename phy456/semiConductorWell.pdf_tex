@@ -49,7 +49,7 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.4142857)%
-    \put(0,0){\includegraphics[width=\unitlength]{figures/semiConductorWell.pdf}}%
+    \put(0,0){\includegraphics[width=\unitlength]{../../figures/phy456/semiConductorWell.pdf}}%
     \put(0.46077098,1.29399849){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{continuum}}}%
   \end{picture}%
 \endgroup%
