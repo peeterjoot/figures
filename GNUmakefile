@@ -6,6 +6,8 @@ SDRAW := "/cygdrive/c/Program Files (x86)/LibreOffice 4/program/sdraw.exe"
 #PNG_FROM_ODG := $(subst odg,png,$(ODG_FILES))
 #all :: $(PNG_FROM_ODG)
 
+all ::
+
 # twoMassSpringCouplingFig1.png was generated using the rule below, but
 # I don't know how to crop the file without using external tools (and can't
 # figure out how to do it with libreoffice draw)
