@@ -1,0 +1,6 @@
+all : $(subst .png,.opt.ts,$(wildcard *.png))
+
+%.opt.ts : %.png
+	$(HOME)/tmp/pngout-20150319-linux/x86_64/pngout $^
+	#echo $(HOME)/zopfli/zopfli $^
+	touch $@

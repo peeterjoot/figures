@@ -6,6 +6,10 @@ SDRAW := "/cygdrive/c/Program Files (x86)/LibreOffice 4/program/sdraw.exe"
 #PNG_FROM_ODG := $(subst odg,png,$(ODG_FILES))
 #all :: $(PNG_FROM_ODG)
 
+PNGFILES := $(shell find -name "*.png")
+PNGDIRS := $(sort $(dir $(PNGFILES)))
+PWD := $(shell pwd)
+
 all ::
 
 # twoMassSpringCouplingFig1.png was generated using the rule below, but
@@ -19,3 +23,6 @@ all ::
 
 %.png : %.odg
 	$(SDRAW) --headless --convert-to png $^
+
+pngoptimize : 
+	$(foreach dir,$(PNGDIRS),make -C $(dir) -j 4 -f $(PWD)/make.pngopt;)
