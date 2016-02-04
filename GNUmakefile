@@ -9,6 +9,7 @@ SDRAW := "/cygdrive/c/Program Files (x86)/LibreOffice 4/program/sdraw.exe"
 PNGFILES := $(shell find -name "*.png")
 PNGDIRS := $(sort $(dir $(PNGFILES)))
 PWD := $(shell pwd)
+PNGOPTJ := -j 4
 
 all ::
 
@@ -25,4 +26,4 @@ all ::
 	$(SDRAW) --headless --convert-to png $^
 
 pngoptimize : 
-	$(foreach dir,$(PNGDIRS),make -C $(dir) -j 4 -f $(PWD)/make.pngopt;)
+	$(foreach dir,$(PNGDIRS),make -C $(dir) -k $(PNGOPTJ) -f $(PWD)/make.pngopt;)
