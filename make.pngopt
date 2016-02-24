@@ -1,5 +1,6 @@
 all : $(subst .png,.opt.ts,$(wildcard *.png))
 
+# wget http://static.jonof.id.au/dl/kenutils/pngout-20150319-linux.tar.gz
 %.opt.ts : %.png
 	$(HOME)/tmp/pngout-20150319-linux/x86_64/pngout $^
 	#echo $(HOME)/zopfli/zopfli $^
